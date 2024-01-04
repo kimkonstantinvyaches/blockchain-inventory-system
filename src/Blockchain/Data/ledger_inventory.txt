@@ -1,0 +1,90 @@
+[
+  {
+    "blockIndex": 1,
+    "blockchainData": {
+      "inventoryId": "IN8ab6770b",
+      "inventoryName": "Tecware Spectre",
+      "inventoryLocation": "Shelf C4"
+    },
+    "preHash": "0",
+    "nowHash": "ZaSVJMW/QSpeMNrmpj3vN2tYCV9cJ34+rzmYQXEYF26uKqjCEp/mQd/KQ7MQObFhZOE2/sTQ8oe292qsjwb3LP97Ii3LjsdPlpMpFwLW94yIeoriUPfkueeRXdnGwf5e0jqtkAF/8qwMbfJdClayStP4bP5tmfUjLTqERdZYRJ0\u003d",
+    "timeStamp": 1634489457440
+  },
+  {
+    "blockIndex": 2,
+    "blockchainData": {
+      "inventoryId": "INb3afa434",
+      "inventoryName": "Tecware Spectre",
+      "inventoryLocation": "Shelf C4"
+    },
+    "preHash": "ZaSVJMW/QSpeMNrmpj3vN2tYCV9cJ34+rzmYQXEYF26uKqjCEp/mQd/KQ7MQObFhZOE2/sTQ8oe292qsjwb3LP97Ii3LjsdPlpMpFwLW94yIeoriUPfkueeRXdnGwf5e0jqtkAF/8qwMbfJdClayStP4bP5tmfUjLTqERdZYRJ0\u003d",
+    "nowHash": "bTC7KMsxf7Y/Nx5qT6ukLmp34MtaymlBabKy5eBgCD8ekPRBhzzIAVtMJAf8a4fISAuYDYbu+07dfCC9jRo7siyLXxCq7KDqm8g+I5cKdpVkm8UvREE2zKqb+tS/P1Xp58qCrrzieswJWSgscH2B6o2olqA4zaTu540rC2hjCas\u003d",
+    "timeStamp": 1634489484339
+  },
+  {
+    "blockIndex": 3,
+    "blockchainData": {
+      "inventoryId": "IN156ece41",
+      "inventoryName": "G305",
+      "inventoryLocation": "K20"
+    },
+    "preHash": "bTC7KMsxf7Y/Nx5qT6ukLmp34MtaymlBabKy5eBgCD8ekPRBhzzIAVtMJAf8a4fISAuYDYbu+07dfCC9jRo7siyLXxCq7KDqm8g+I5cKdpVkm8UvREE2zKqb+tS/P1Xp58qCrrzieswJWSgscH2B6o2olqA4zaTu540rC2hjCas\u003d",
+    "nowHash": "V+ZaSJQ2GCE96fnCJqeer6jYc13Ag/JZakrD72PBVSGvateGaZaOJCntqT+F2Qoj7FMLsiDhAtKVpo3//ueNsaxxzcLbg8G7eXTvbqUEIzv/uRCe5XYEqk5WCfEgi13Wc+IhjJru/d3L0hGf6CDBIX0c4hgCrTyS/j0pXy/JEYQ\u003d",
+    "timeStamp": 1634619307053
+  },
+  {
+    "blockIndex": 4,
+    "blockchainData": {
+      "inventoryId": "IN425239eb",
+      "inventoryName": "G3052",
+      "inventoryLocation": "sdff"
+    },
+    "preHash": "V+ZaSJQ2GCE96fnCJqeer6jYc13Ag/JZakrD72PBVSGvateGaZaOJCntqT+F2Qoj7FMLsiDhAtKVpo3//ueNsaxxzcLbg8G7eXTvbqUEIzv/uRCe5XYEqk5WCfEgi13Wc+IhjJru/d3L0hGf6CDBIX0c4hgCrTyS/j0pXy/JEYQ\u003d",
+    "nowHash": "AJrRSin++ulEWStGr3qdwqzwwJcN7DMUiNdmbPo03duBgrWx5RJFgU7WLNGFHVNQbBhbUU4/OdJbEArFzdarj4GmXie7Pxe3GaLwMPkPh0IaYC6sADMOG+BfWRaGFsmzJKV0iJSK0kSPTkIQZXhdVmklqEVALskU1jF0p6YJ8LA\u003d",
+    "timeStamp": 1634625974858
+  },
+  {
+    "blockIndex": 5,
+    "blockchainData": {
+      "inventoryId": "IN0ea46722",
+      "inventoryName": "Steelseries m1",
+      "inventoryLocation": "P12"
+    },
+    "preHash": "AJrRSin++ulEWStGr3qdwqzwwJcN7DMUiNdmbPo03duBgrWx5RJFgU7WLNGFHVNQbBhbUU4/OdJbEArFzdarj4GmXie7Pxe3GaLwMPkPh0IaYC6sADMOG+BfWRaGFsmzJKV0iJSK0kSPTkIQZXhdVmklqEVALskU1jF0p6YJ8LA\u003d",
+    "nowHash": "fAHfgt+YuTLb0P04qSYFRmpj8D0g1ePtN9KXlDn/X4tDl9VOvmx+BgX3cKZpyJLdt+/u4mn1klm5lSHZCy14Uf0tYrY5nHbvfMVoFxaIx8cE2z51RjKOkgxV51TR8YJs/qmB7gcLTEx02/nj7VxcAmI/oLlqQVViD7DqkTiBYYk\u003d",
+    "timeStamp": 1634626110046
+  },
+  {
+    "blockIndex": 6,
+    "blockchainData": {
+      "inventoryId": "IN31886297",
+      "inventoryName": "Alienware M15",
+      "inventoryLocation": "N20"
+    },
+    "preHash": "fAHfgt+YuTLb0P04qSYFRmpj8D0g1ePtN9KXlDn/X4tDl9VOvmx+BgX3cKZpyJLdt+/u4mn1klm5lSHZCy14Uf0tYrY5nHbvfMVoFxaIx8cE2z51RjKOkgxV51TR8YJs/qmB7gcLTEx02/nj7VxcAmI/oLlqQVViD7DqkTiBYYk\u003d",
+    "nowHash": "akwVZByPkefkrOZ6JbAKfH7AjAseCqjSu/WZhWfvOTqKPFtzIRligQruIEdgHidl+dXyvq3fGiyrL807kl8r8Rir3jZ0B1A77JuvNZsMIw/QEUHd8zV8qs7Jv6+hEdPVhWAV3YgExvgDe42rjyPJmecWTUH08H1QOOr5AutaMF0\u003d",
+    "timeStamp": 1634830863507
+  },
+  {
+    "blockIndex": 7,
+    "blockchainData": {
+      "inventoryId": "IN5be80113",
+      "inventoryName": "test",
+      "inventoryLocation": "test"
+    },
+    "preHash": "akwVZByPkefkrOZ6JbAKfH7AjAseCqjSu/WZhWfvOTqKPFtzIRligQruIEdgHidl+dXyvq3fGiyrL807kl8r8Rir3jZ0B1A77JuvNZsMIw/QEUHd8zV8qs7Jv6+hEdPVhWAV3YgExvgDe42rjyPJmecWTUH08H1QOOr5AutaMF0\u003d",
+    "nowHash": "iz1VfixxMEIp5Mx18b59s6k6DWc7dmi32yxLnfs+7YT+2SRR8ET6T03+wCkdsiSrXJeYyrOXB6Ve3xkLbVi6zns2XdQz6qz+Gdyh+azjCnUoFULO/I7NSPGX2bNlILb5CgRANfZvLyNOV7ZtEBQY2osb9LjRrOKVUACXrhHMTig\u003d",
+    "timeStamp": 1635008324038
+  },
+  {
+    "blockIndex": 8,
+    "blockchainData": {
+      "inventoryId": "IN5b2f8d3f",
+      "inventoryName": "test1",
+      "inventoryLocation": "test"
+    },
+    "preHash": "iz1VfixxMEIp5Mx18b59s6k6DWc7dmi32yxLnfs+7YT+2SRR8ET6T03+wCkdsiSrXJeYyrOXB6Ve3xkLbVi6zns2XdQz6qz+Gdyh+azjCnUoFULO/I7NSPGX2bNlILb5CgRANfZvLyNOV7ZtEBQY2osb9LjRrOKVUACXrhHMTig\u003d",
+    "nowHash": "VzWjazBdtp2AUwZ03lnuU7qdaUGyrtdBVRTO8/nBgfnYwZDsl9N2BNmAy9JfgSrc0QlJ7NjaGQ/2IVfdgMR5YxkadY9PUlSZpekae8P+Vpeg7HH5b8RXJ8DqSmbtMum2fPBtDMzIrNtVQwDpl7fClXhuXjY5u8zqo75IWRQJetA\u003d",
+    "timeStamp": 1635239899456
+  }
+]
